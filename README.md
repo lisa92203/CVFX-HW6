@@ -17,7 +17,7 @@ alt="Our video (fail to load the image, please click here to see the video)" wid
 
 ## Visual effects (with 3D model)
 
-我們分別使用ORB-SLAM2和AE來做特效，在卡納赫拉皮卡丘和小火龍的中間放入愛心，另外，在ORB-SLAM2的部分，我們還有在卡納赫拉皮卡丘的上面加入一個正在飛的蝴蝶的3D模型。
+我們分別使用ORB-SLAM2和AE來做特效，首先，在ORB-SLAM2的部分，我們在卡納赫拉皮卡丘和小火龍的中間放入愛心並在加入一個正在飛的蝴蝶的3D模型；在AE的部分，我們追蹤玩偶位置加入對話框。
 
 ### ORB-SLAM2
 
@@ -50,6 +50,10 @@ alt="Our video (fail to load the image, please click here to see the video)" wid
 
 在AE的部分，我們利用Tracker中的3D camera tracker，首先分析出相機的位移以及旋轉，接著利用取得的特徵點將愛心貼到小火龍和皮卡丘之間形成的平面上，如此即可達到我們想要的效果。
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KAuE1tAJY4
+" target="_blank"><img src="http://img.youtube.com/vi/KAuE1tAJY4/0.jpg" 
+alt="Our video (fail to load the image, please click here to see the video)" width="240" height="180" border="10" /></a>
+
 ### Comparison
 
 #### ORB_SLAM2
@@ -76,4 +80,14 @@ alt="Our video (fail to load the image, please click here to see the video)" wid
 " target="_blank"><img src="http://img.youtube.com/vi/66tIZ3vtJ6s/0.jpg" 
 alt="Our video (fail to load the image, please click here to see the video)" width="240" height="180" border="10" /></a>
 
+
+## Assign
+- [x]  5%  (Take videos by yourselves)
+- [x]  10% (Make these visual effects with ORB-SLAM2)
+- [x]  10% (Make these visual effects with any post-production software)
+- [x]  10% (Compare above methods)
+- [x]  10% (Make some special effects based on the pose information, such as rotating, zooming in or out)
+- [x]  5%  (Insert a 3D model to your video)
+- [x]  30% (Assistant) 
+- [x]  20% (Mutual evaluation)
 
