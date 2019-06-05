@@ -50,8 +50,8 @@ alt="Our video (fail to load the image, please click here to see the video)" wid
 
 在AE的部分，我們利用Tracker中的3D camera tracker，首先分析出相機的位移以及旋轉，接著利用取得的特徵點將愛心貼到小火龍和皮卡丘之間形成的平面上，如此即可達到我們想要的效果。
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KAuE1tAJY4
-" target="_blank"><img src="http://img.youtube.com/vi/KAuE1tAJY4/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-KAuE1tAJY4
+" target="_blank"><img src="http://img.youtube.com/vi/-KAuE1tAJY4/0.jpg" 
 alt="Our video (fail to load the image, please click here to see the video)" width="240" height="180" border="10" /></a>
 
 ### Comparison
